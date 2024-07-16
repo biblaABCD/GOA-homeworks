@@ -14,8 +14,11 @@ for i in range(10):
 for i in range(0, 11, 1):
     print(i)
 #6
-number = int(input('Enter number: '))
+num1 = int(input('Enter number: '))
 guess_number = int(input('Guess the number: '))
 
-while number != guess_number:
+while num1 != guess_number:
     guess_again_number = int(input('Guess number again: '))
+
+if guess_again_number == num1:
+    print(True)
