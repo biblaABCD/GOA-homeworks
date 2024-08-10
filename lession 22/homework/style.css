@@ -1,0 +1,129 @@
+body{
+    background-image: url(image.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.first{
+    font-family: "Baskervville SC";
+    color: white;
+    color: #eee, lightgreen;
+    font-size: 50px;
+}
+.first{
+    margin-left: 30%;
+    margin-bottom: 70;
+}
+.third{
+    margin-left: 95%;
+}
+.third2{
+    margin-left: 95%;
+    margin-top: -400px;
+}
+
+
+.goa{
+    margin-left: 2%;
+    margin-top: 5%;
+    border: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+.fourth{
+    color: #eee;
+    margin-left: 88%;
+    
+}
+
+.fifth{
+    margin-left: 80%;
+    border-style: outset;
+    border-color: lightgreen;
+    border-radius: 10px;
+}
+
+.sixth{
+    color: #eee;
+    margin-left: 80%;
+
+}
+
+.seventh{
+    float: left;
+    margin-top: -460px;
+    border-color: lightgreen;
+    border-radius: 10px;
+    border-style: outset;
+}
+
+.eighth{
+    color: #eee;
+    margin-top: -200px;
+}
+
+.text{
+    color: #eee;
+}
+.btn{
+    font-family: "Inconsolata";
+    font-size: 20px;
+    margin-left: 850px;
+}
+
+.img3{
+    margin-left: 30px;
+    margin-top: 30px;
+    border-color: lightblue;
+    border-style: outset;
+    border-radius: 10px;
+}
+
+.text2{
+    font-size: 35px;
+    color: #eee;
+    margin-left: 350px;
+    margin-top: -300px;
+}
+.img4{
+    margin-top: 80px;
+    margin-left: 30px;
+    border-color: lightblue;
+    border-style: outset;
+    border-radius: 10px;
+}
+.text3{
+    color: #eee;
+    margin-left: 30px;
+}
+.img5{
+    margin-left: 1510px;
+    margin-top: -500px;
+    margin-bottom: 40px;
+    border-color: lightblue;
+    border-style: outset;
+    border-radius: 10px;
+}
+.text4{
+    color: #eee;
+    margin-left: 1050px;
+    margin-top: -300px;
+
+}
+
+.img6{
+    margin-top: -2000px;
+    margin-left: 1520px;
+    margin-bottom: 650px;
+    border-color: lightblue;
+    border-style: outset;
+    border-radius: 10px;
+}
+.text5{
+    color: #eee;
+    margin-top: -850px;
+    margin-left: 1080px;
+    margin-bottom: 600px;
+    font-size: 35px;
+}
