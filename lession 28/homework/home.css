@@ -1,0 +1,51 @@
+header { position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 100px;
+    background: #444345;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+    opacity: 92%; 
+    }
+    
+    .navigation a {
+        position: relative;
+        font-size: 1.1em;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        margin-left: 80px; }
+      
+        body {
+            background-color: rgb(88, 97, 94);
+        }
+        h1 {
+            position: absolute;
+                top: 120px;
+              left: 720px;
+            }
+        section2 {
+    position: absolute;
+    top: 240px;
+    left: 720px;
+             }
+     section3 {
+      position: absolute;
+    top: 120px;
+    left: 1420px;
+            }
+    
+    section5 {
+            position: absolute;
+            top: 640px;
+            left: 720px;
+    }
+    
+    section6 {
+        position: absolute;
+      top: 520px;
+      left: 1420px;
+              }
