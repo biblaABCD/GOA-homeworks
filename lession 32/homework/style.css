@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: rgb(249, 224, 4);
+    font-family: "Roboto Slab";
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    color: rgb(249, 224, 4);
+    font-family: "Roboto Slab";
+    font-size: 30px;
+}
+button{
+    align: center;
+    font-family: "Roboto Slab";
+    font-size: 15px;
+}
+.first{
+    margin-left: 50px;
+}
+.btn1{
+    margin-left: 175px;
+    font-size: larger;
+}
+.second{
+    margin-left: 170px;
+    margin-top: -410px;
+    margin-bottom: 25px;
+}
+.btn2{
+    font-size: larger;
+    margin-left: -190px;
+}
+.third{
+    margin-left: 180px;
+    margin-top: -410px;
+    margin-bottom: 25px;
+}
+.btn3{
+    font-size: larger;
+    margin-left: -180px;
+}
+.fourth{
+    margin-left: 170px;
+    margin-top: -410px;
+    margin-bottom: 25px;
+}
+.btn4{
+    font-size: larger;
+    margin-left: -180px;
+}
+.fifth{
+    margin-left: 170px;
+    margin-top: -410px;
+    margin-bottom: 25px;
+}
+.btn5{
+    font-size: larger;
+    margin-left: -180px;
+}
+.head{
+    margin-top: 100px;
+    font-size: 40px;
+}
+.btn6{
+    font-size: larger;
+    margin-left: 885px;
+}
+.btn7{
+    font-size: larger;
+    margin-left: 895px;
+    margin-top: 20px;
+}
